@@ -1,6 +1,8 @@
 # RushHourAI 
 AI coded in Python that implements the A* search algorithm on the sliding puzzle game of RushHour
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Blocking Heuristic
 Measured by the amount of cars in front of our Red Car on the horizontal plane
 
